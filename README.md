@@ -1,2 +1,4 @@
 # react-project
-My irst 
+My first repositry.
+Authour ~ Arwinder Singh.
+
