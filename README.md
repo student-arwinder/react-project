@@ -1,4 +1,5 @@
 # react-project
-My first repositry.
+My first Repository.
+<br>
 Authour ~ Arwinder Singh.
 
